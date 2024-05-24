@@ -11,4 +11,5 @@
   - Make the "samuel oppong boafo" part of the text bold.
 
 # SCREENSHOT OF THE APP
-![EXPO APP SCREENSHOT](EXPO.jpg)
+
+![EXPO](https://github.com/PixBlezz/rn-assignment2-11134121/assets/148706507/631a5691-6e82-409a-bb87-37e1ac6e37e5)
